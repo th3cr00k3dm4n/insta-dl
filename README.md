@@ -4,4 +4,4 @@
 download images,story,highlights,igtv,tagged images from instagram in termux
 
 <h2> Installation</h2>
-full installationon and usage [! guide ](http://th3cr00k3dm4n.unaux.com/blog/insta-dl)
+for detailed installationon and usage click <a href="http://th3cr00k3dm4n.unaux.com/blog/insta-dl">HERE</a>
